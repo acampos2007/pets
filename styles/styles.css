@@ -2,6 +2,7 @@ body
 {
     background-color: orange;
 
+
 }
 
 #petpic
@@ -9,7 +10,7 @@ body
     border-style: dotted;
 }
 
-h1
+.h1
 {
     font-style: italic;
     position: center;
